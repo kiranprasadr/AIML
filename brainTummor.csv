@@ -1,0 +1,6 @@
+shape,size,intensity,smoothness,texture,y/n
+circular,large,light,smooth,thik,yes
+circular,large,light,irregular,thik,yes
+oval,small,light,smooth,thik,no
+oval,large,light,irregular,thik,yes
+circular,small,light,smooth,thik,no
